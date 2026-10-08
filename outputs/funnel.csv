@@ -1,0 +1,5 @@
+platform,signed_up,verified,created_project,invited_teammate,verified_pct_of_signups,created_pct_of_signups,invited_pct_of_signups,verify_to_create_conv,create_to_invite_conv
+All,8000,6790,4435,1573,84.9,55.4,19.7,65.3,35.5
+Web,3665,3162,2325,841,86.3,63.4,22.9,73.5,36.2
+iOS,2330,1975,1393,468,84.8,59.8,20.1,70.5,33.6
+Android,2005,1653,717,264,82.4,35.8,13.2,43.4,36.8
